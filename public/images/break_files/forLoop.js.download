@@ -1,0 +1,14 @@
+// for loop in JS
+let a=10;
+for(let i=0;i<=a;i++){
+    console.log(i);
+}
+
+let sum=0;
+let n=+(prompt("enter any natural number which you want to get sum ."));
+for(let i=0;i<=n;i++){
+    sum=sum+i;
+
+}
+console.log("sum of natural number 0 to",n);
+console.log(sum);

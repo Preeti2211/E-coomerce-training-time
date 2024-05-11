@@ -1,0 +1,99 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background:rgba(0,0,0,0.09);
+}
+.logo
+{
+    font-family:"Brush Script MT";
+    font-size:45px;
+    color:white;
+    font-weight: bold;
+    margin-left:20px;
+}
+
+.text
+{
+    color:white;
+    font-size:15px;
+    font-weight: bold;
+    text-align:center;
+    margin-top:30px;
+    font-family:"Franklin Gothic Medium";
+}
+#search
+{
+    color:black;
+    font-size:30px;
+    width:100%;
+
+    border: 1px solid gray;
+    background:white
+    lign-height:30px;
+    margin-top:15px;
+}
+.login
+{
+  height:30px;
+    background:white;
+    width:100%;
+    margin-top:15px;
+    border:1px solid gray;
+    color:cyan;
+}
+.textlo
+{
+    color:white;
+    font-size:20px;
+    font-weight: bold;
+    text-align:center;
+    margin-top:50px;
+    font-family:"Franklin Gothic Medium";
+}
+
+.text1
+{
+    color:black;
+    font-size:15px;
+}
+.menu
+{
+    text-align:justify-all;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.tbest
+{
+    margin-left:25px;
+    font-size:10px;
+}
+.bfont
+{
+    font-size:25px;
+    color:black;
+    font-weight: bold;
+}
+.f-ul
+{
+    margin-left:10px;
+    margin-top:80px;
+}
+.f-ul1
+{ text-decoration: none;
+    margin-top:80px;
+   }
+.text2
+{
+    color:white;
+}
+.Fo-m
+{
+
+    align-content: center;
+    margin-left:80px;
+}
+

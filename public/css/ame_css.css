@@ -1,0 +1,151 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background:rgba(0,0,0,0.09);
+}
+
+
+.top{
+    min-height:100px;
+    background:darkcyan;
+}
+.logo
+{
+    font-size:35px;
+    color:white;
+    font-family:SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+
+}
+.p_top
+{
+    margin-top:15px;
+}
+.text1
+{
+    color:black;
+    font-size:15px;
+}
+.menu
+{
+    text-align:justify-all;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.search
+{
+    min-height: 40px;
+    margin-top:15px;
+    background:white;
+    border-radius: 10px;
+    min-width: 100%;
+
+}
+.drop{
+    width:15%;
+    background:rgba(0,0,0,0.1);
+    border-right:1px solid black;
+    min-height:40px;
+    float:left;
+}
+.in
+{
+    min-width:75%;
+    min-height: 40px;
+
+    float:left;
+}
+.in input
+{
+    min-width:70%;
+    min-height: 40px;
+    position:absolute;
+}
+.sear
+{
+    min-width: 10%;
+    background:orange;
+    border-left:1px solid orange;
+    float:left;
+    min-height: 40px;
+
+}
+.order{
+    margin-top:20px;
+}
+.order1{
+    margin-top:25px;
+}
+.anch
+{
+    color:white;
+    font-weight:15px;
+    margin-left:10px;
+    text-transform: capitalize;
+}
+.size
+{
+    min-height: 40px;
+    border-bottom: 1px solid black;
+}
+.anch1
+{
+    color:black;
+    font-weight:15px;
+    margin-left:10px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.nav-link:hover
+{
+    font-weight:bolder;
+    border-bottom:1px solid black ;
+}
+.logo-des
+{
+    min-height: 80px;
+background:white;
+}
+.logo-des p
+{
+    margin-left:10px;
+}
+.logo-des p span{
+    font-size:30px;
+    font-weight:bolder;
+}
+.size-start
+{
+    min-height:750px;
+
+}
+
+
+.tbest
+{
+    margin-left:25px;
+    font-size:10px;
+    margin-top:20px;
+}
+.bfont
+{
+    font-size:25px;
+    color:black;
+    font-weight: bold;
+}
+.anim
+{
+   animation-name:pree;
+    animation-delay: 5s;
+    animation-duration:15s;
+    animation-iteration-count: infinite;
+    animation-timing-function:ease-out ;
+}
+@keyframes pree
+{
+
+
+}
